@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for cnn app
+Home-page: https://github.com/nagamalliparasa/kidney_disease_prediction
+Author: nagamalliparasa
+Author-email: nagamallirgukt@gmail.com
+Project-URL: Bug Tracker, https://github.com/nagamalliparasa/kidney_disease_prediction/issues
